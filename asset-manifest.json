@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Yenganollarajesh/Indroyd-Assignment.git/static/css/main.5e630cac.css",
+    "main.js": "/Yenganollarajesh/Indroyd-Assignment.git/static/js/main.69e39756.js",
+    "static/js/453.8abaa0bc.chunk.js": "/Yenganollarajesh/Indroyd-Assignment.git/static/js/453.8abaa0bc.chunk.js",
+    "index.html": "/Yenganollarajesh/Indroyd-Assignment.git/index.html",
+    "main.5e630cac.css.map": "/Yenganollarajesh/Indroyd-Assignment.git/static/css/main.5e630cac.css.map",
+    "main.69e39756.js.map": "/Yenganollarajesh/Indroyd-Assignment.git/static/js/main.69e39756.js.map",
+    "453.8abaa0bc.chunk.js.map": "/Yenganollarajesh/Indroyd-Assignment.git/static/js/453.8abaa0bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e630cac.css",
+    "static/js/main.69e39756.js"
+  ]
+}
